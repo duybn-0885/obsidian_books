@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "da36e826bf077fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b62b24eab58f6e5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33ad25a329254899",
+    "type": "split",
+    "children": [
+      {
+        "id": "c11793c6b04842dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "963f0354eda277e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f618713b701ae84b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.51208114624023
+  },
+  "right": {
+    "id": "ffe73b6f63fc2b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "527d64b7747b4bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3967fc4726d52c63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b62b24eab58f6e5",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Serialization Isolation.md",
+    "Transaction/Preventing Lost Updates.md",
+    "Transaction/Serializability/Two Phase Locking.md",
+    "Transaction/Serializability/Serilizable Snapshot Isolation.md",
+    "Transaction/Serializability/Actual Serial Excution.md",
+    "Transaction/Serializability/Why Serializable?.md",
+    "Transaction/Write Skew and Phantoms/Write Skew.md",
+    "Transaction/Write Skew and Phantoms/Preventing.md",
+    "Transaction/Write Skew and Phantoms/Materializing conflicts.md"
+  ]
+}

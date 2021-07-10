@@ -1,0 +1,2 @@
+- Concurrency bugs are hard to find by testing, such bugs are only triggered when you get unlucky with the timing -> Difficult to reproduce
+- Hard to find where make errors.

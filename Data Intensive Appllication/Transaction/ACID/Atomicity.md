@@ -1,0 +1,1 @@
+In transaction, if has failure all writes need to rollback. When several processes try to access the same data at the same time, we mention to [[Isolation]]

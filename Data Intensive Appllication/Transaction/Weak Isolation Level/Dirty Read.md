@@ -1,0 +1,1 @@
+- The transaction has not yet committed or aborted, but you see uncommitted data. It is dirty read

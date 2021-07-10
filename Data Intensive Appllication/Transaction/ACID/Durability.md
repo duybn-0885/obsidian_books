@@ -1,0 +1,1 @@
+- Durability is a promise that when a transaction has commited successfully, any data it has written will not be forgotten.

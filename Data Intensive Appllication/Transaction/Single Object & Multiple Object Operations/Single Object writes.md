@@ -1,0 +1,1 @@
+[[Atomicity]] and [[Isolation]] also apply when a single object is being changed.

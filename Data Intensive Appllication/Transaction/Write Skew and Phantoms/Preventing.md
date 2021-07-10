@@ -1,0 +1,4 @@
+- Atomic single-object operations can't help because multiple objects are involved
+- Automatic detect does't working
+- [[Materializing conflicts]]
+- [[Serialization Isolation]]

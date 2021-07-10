@@ -1,0 +1,2 @@
+- Isolation the sense of ACID mean that concurrently excuting transactions are isolcated from each other. They cannot step on each others's toe.
+- There are some [[Isolation Level]]
